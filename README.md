@@ -8,11 +8,12 @@ I started my software engineering journey in 2019 as a polytechnic student in Te
 
 I have made various applications throughout my journey as a software engineer, and I'll continue to explore newer technologies to improve my applications!
 
-* 🌍  I'm based in Singapore
-* 🖥️  See my portfolio at [oreoolis.github.io/portfolio](http://oreoolis.github.io/portfolio)
+### My Portfolio
+* 🖥️ [oreoolis.github.io/portfolio](http://oreoolis.github.io/portfolio)
+### Contact
 * ✉️  You can contact me at [daao2002@outlook.com](mailto:daao2002@outlook.com)
 
-### Skills
+### Skills and Technologies
 
 
 <p align="left">
