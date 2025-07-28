@@ -1,4 +1,4 @@
-Hello 👋
+Hello! 👋
 My name is Dwayne Otero!
 =============================
 Aspiring Full Stack and Frontend Engineer
