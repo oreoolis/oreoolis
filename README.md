@@ -8,6 +8,10 @@ I started my software engineering journey in 2019 as a polytechnic student in Te
 
 I have made various applications throughout my journey as a software engineer, and I'll continue to explore newer technologies to improve my applications!
 
+### Currently Maintaining
+* HAWKR Menu Application (React.JS, AWS S3)
+* Personal Portfolio Website (React.JS, AWS S3)
+
 ### Skills and Technologies
 
 
