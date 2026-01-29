@@ -10,7 +10,6 @@ Currently, I am a 2nd year student in Singapore Management University pursuing a
 I have made various applications throughout my journey as a software engineer, and I'll continue to explore newer technologies to improve my applications!
 
 ### Currently Maintaining
-* <a href = "https://github.com/oreoolis/HAWKR-Menu">HAWKR Menu Application (React.JS, AWS S3)</a>
 * <a href = "https://github.com/oreoolis/portfolio">Personal Portfolio Website (React.JS, AWS S3)</a>
 
 ### Skills and Technologies
