@@ -9,8 +9,10 @@ Currently, I am a 2nd year student in Singapore Management University pursuing a
 
 I have made various applications throughout my journey as a software engineer, and I'll continue to explore newer technologies to improve my applications!
 
-### Currently Maintaining
-* <a href = "https://github.com/oreoolis/portfolio">Personal Portfolio Website (React.JS, AWS S3)</a>
+### Recent Projects
+* <a href = "https://github.com/oreoolis/portfolio">Personal Portfolio Website</a>
+* <a href = "https://github.com/Joseph-LohYeKai/CS203-Project">Brainrot Learning Platform</a>
+* <a href = "https://github.com/Nicholas1811/is213-backend">JMS: Just Meals Savers</a>
 
 ### Skills and Technologies
 
