@@ -4,10 +4,10 @@ My name is Dwayne Otero!
 Aspiring Full Stack and Frontend Engineer
 -----------------------------------------
 
+I am a 3rd year student in Singapore Management University pursuing a B(Sc) in Software Engineering, specializing in product development (Fullstack + Frontend).
 I started my software engineering journey in 2019 as a polytechnic student in Temasek Polytechnic, achieving a Diploma in Information Technology.
-Currently, I am a 2nd year student in Singapore Management University pursuing a B(Sc) in Software Engineering, specializing in product development (Fullstack + Frontend).
 
-I have made various applications throughout my journey as a software engineer, and I'll continue to explore newer technologies to improve my applications!
+I have made various applications throughout my journey as a software engineer, and I'll continue to explore newer technologies to improve my applications to create scalable and reliable solutions!
 
 ### Recent Projects
 * <a href = "https://github.com/oreoolis/portfolio">Personal Portfolio Website</a>
