@@ -1,38 +1,72 @@
-Hello! 👋
-My name is Dwayne Otero!
-=============================
-Aspiring Full Stack and Frontend Engineer
------------------------------------------
+<h2 align="center">Full Stack & Cloud Engineer from Singapore</h2>
 
-I am a 3rd year student in Singapore Management University pursuing a B(Sc) in Software Engineering, specializing in product development (Fullstack + Frontend).
-I started my software engineering journey in 2019 as a polytechnic student in Temasek Polytechnic, achieving a Diploma in Information Technology.
-
-I have made various applications throughout my journey as a software engineer, and I'll continue to explore newer technologies to improve my applications to create scalable and reliable solutions!
-
-### Recent Projects
-* <a href = "https://github.com/oreoolis/portfolio">Personal Portfolio Website</a>
-* <a href = "https://github.com/Joseph-LohYeKai/CS203-Project">Brainrot Learning Platform</a>
-* <a href = "https://github.com/Nicholas1811/is213-backend">JMS: Just Meals Savers</a>
-
-### Skills and Technologies
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" title="Angular"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Education-SMU_Software_Engineering-151056?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Singapore-df1c24?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Building_Reliable_Cloud_Systems-FFD700?style=flat-square" />
 </p>
 
+<p align="center">
+  <a href="mailto:daao2002@outlook.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dwayne-otero-7693b1213/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/oreoolis"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
+<br/>
 
-### My Portfolio
-* 🖥️ [oreoolis.github.io/portfolio](http://oreoolis.github.io/portfolio)
-### Contact
-* ✉️  You can contact me at [daao2002@outlook.com](mailto:daao2002@outlook.com)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=00FF00&center=true&vCenter=true&lines=Optimizing+CI%2FCD;Architecting+Scalable+Solutions;Building+Resilient+Microservices" alt="Typing effect" />
+</h3>
 
-### Socials
+<h3 align="center">Automation • Cloud Solutions • Full Stack Engineering</h3>
 
-<p align="left"> <a href="https://www.github.com/oreoolis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/dwayne-otero-7693b1213/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,java,spring,ts,js,react,vue,angular,nodejs,python,php,postgres,mysql,mongo,git,github&perline=10" />
+  </a>
+</p>
 
-### Badges
+<br/>
 
-<b>My GitHub Stats</b>
+### Engineering Focus
 
-<a href="http://www.github.com/oreoolis"><img src="https://github-readme-stats.vercel.app/api?username=oreoolis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="oreoolis's GitHub stats" /></a>
+I design, automate, and optimize architecture and infrastructure for scalable, secure, and resilient systems. 
+Current focus areas:
+
+*   **Cloud Architecture & Solutions:** Utilizing AWS (Serverless, RDS, DynamoDB) and Azure Container Instances.
+*   **Infrastructure as Code (IaC):** Automating provisioning and infrastructure management with Terraform.
+*   **Containerization & Orchestration:** Deploying resilient microservices using Docker and Kubernetes.
+*   **CI/CD & Automation:** Building secure deployment pipelines using GitHub Actions and automated testing.
+*   **Full-Stack Product Development:** Engineering responsive web applications with React, Vue, Java Spring Boot, and Node.js.
+
+---
+
+### Recent Projects
+
+<table>
+  <tr>
+    <td align="center" width="230">
+      <b>Brainrot Learning Platform</b><br />
+      <sub>(GenAlpha Microservices)</sub><br /><br />
+      <a href="https://github.com/Joseph-LohYeKai/CS203-Project">View Repository</a>
+    </td>
+    <td align="center" width="230">
+      <b>JMS: Just Meals Savers</b><br />
+      <sub>(is213-backend)</sub><br /><br />
+      <a href="https://github.com/Nicholas1811/is213-backend">View Repository</a>
+    </td>
+    <td align="center" width="230">
+      <b>Personal Portfolio Website</b><br />
+      <sub>(oreoolis.github.io)</sub><br /><br />
+      <a href="https://github.com/oreoolis/portfolio">View Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <a href="http://www.github.com/oreoolis">
+    <img src="https://github-readme-stats.vercel.app/api?username=oreoolis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="oreoolis's GitHub stats" />
+  </a>
+</p>
