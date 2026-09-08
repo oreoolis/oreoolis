@@ -15,14 +15,14 @@
 <br/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=00FF00&center=true&vCenter=true&lines=Optimizing+CI%2FCD;Architecting+Scalable+Solutions;Building+Resilient+Microservices" alt="Typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=00FFFF&center=true&vCenter=true&lines=Optimizing+CI%2FCD;Architecting+Scalable+Solutions;Building+Resilient+Microservices" alt="Typing effect" />
 </h3>
 
-<h3 align="center">Automation • Cloud Solutions • Full Stack Engineering</h3>
+<h3 align="center">AI Automation • Cloud Solutions • Full Stack Engineering</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,java,spring,ts,js,react,vue,angular,nodejs,python,php,postgres,mysql,mongo,git,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,java,spring,ts,js,react,vue,angular,nodejs,python,php,postgres,mysql,mongo,git,github&perline=10" />
   </a>
 </p>
 
@@ -33,9 +33,9 @@
 I design, automate, and optimize architecture and infrastructure for scalable, secure, and resilient systems. 
 Current focus areas:
 
-*   **Cloud Architecture & Solutions:** Utilizing AWS (Serverless, RDS, DynamoDB) and Azure Container Instances.
+*   **Cloud Architecture & Solutions:** Utilizing AWS (Serverless, RDS, DynamoDB) for smart, scalable, & resilient software solutions.
 *   **Infrastructure as Code (IaC):** Automating provisioning and infrastructure management with Terraform.
-*   **Containerization & Orchestration:** Deploying resilient microservices using Docker and Kubernetes.
+*   **Containerization & Orchestration:** Deploying resilient microservices using Docker.
 *   **CI/CD & Automation:** Building secure deployment pipelines using GitHub Actions and automated testing.
 *   **Full-Stack Product Development:** Engineering responsive web applications with React, Vue, Java Spring Boot, and Node.js.
 
