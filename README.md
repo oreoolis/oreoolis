@@ -46,18 +46,19 @@ Current focus areas:
 <table>
   <tr>
     <td align="center" width="230">
+      <b>MyWay: Agentic Career Planning Platform</b><br />
+      <a href="https://github.com/oreoolis/meong-MyWay">View Repository</a>
+    </td>
+    <td align="center" width="230">
       <b>Brainrot Learning Platform</b><br />
-      <sub>(GenAlpha Microservices)</sub><br /><br />
       <a href="https://github.com/Joseph-LohYeKai/CS203-Project">View Repository</a>
     </td>
     <td align="center" width="230">
       <b>JMS: Just Meals Savers</b><br />
-      <sub>(is213-backend)</sub><br /><br />
       <a href="https://github.com/Nicholas1811/is213-backend">View Repository</a>
     </td>
     <td align="center" width="230">
       <b>Personal Portfolio Website</b><br />
-      <sub>(oreoolis.github.io)</sub><br /><br />
       <a href="https://github.com/oreoolis/portfolio">View Repository</a>
     </td>
   </tr>
