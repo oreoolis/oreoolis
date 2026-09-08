@@ -15,7 +15,7 @@
 <br/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=00FFFF&center=true&vCenter=true&lines=Optimizing+CI%2FCD;Architecting+Scalable+Solutions;Building+Resilient+Microservices" alt="Typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=Optimizing+CI%2FCD;Architecting+Scalable+Solutions;Building+Resilient+Microservices" alt="Typing effect" />
 </h3>
 
 <h3 align="center">AI Automation • Cloud Solutions • Full Stack Engineering</h3>
